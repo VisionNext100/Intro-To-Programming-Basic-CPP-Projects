@@ -1,6 +1,11 @@
 # Intro-To-Programming-Basic-CPP-Projects
 ## Yehan WANG, ECNU
 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/VisionNext100/VisionNext100.github.io@main/public/images/projects/project-cppbasics.png" width="800" alt="Intro-To-Programming-Basic-CPP-Projects">
+    <br>
+</div>
+
 ### Ⅰ Overview
 This is a comprehensive collection of C++ projects covering comment removal, keywords counting, set operations, large number calculation, and heterogeneous queue. It serves as an excellent practical groundwork for C++ beginners to systematically solidify their understanding of core programming concepts, memory management, and object-oriented design. The specific task requirements for each of the five laboratory assignments are outlined in Part Ⅲ of this document, while this repository directly houses the fully implemented source code solutions and comprehensive test cases for verification.
 
